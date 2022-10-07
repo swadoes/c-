@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Ярлыки\Учёба\с\bin\Debug\net6.0\с.exe
+C:\Users\user\Desktop\Ярлыки\Учёба\с\bin\Debug\net6.0\с.deps.json
+C:\Users\user\Desktop\Ярлыки\Учёба\с\bin\Debug\net6.0\с.runtimeconfig.json
+C:\Users\user\Desktop\Ярлыки\Учёба\с\bin\Debug\net6.0\с.dll
+C:\Users\user\Desktop\Ярлыки\Учёба\с\bin\Debug\net6.0\с.pdb
+C:\Users\user\Desktop\Ярлыки\Учёба\с\obj\Debug\net6.0\с.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ярлыки\Учёба\с\obj\Debug\net6.0\с.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Ярлыки\Учёба\с\obj\Debug\net6.0\с.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Ярлыки\Учёба\с\obj\Debug\net6.0\с.AssemblyInfo.cs
+C:\Users\user\Desktop\Ярлыки\Учёба\с\obj\Debug\net6.0\с.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ярлыки\Учёба\с\obj\Debug\net6.0\с.dll
+C:\Users\user\Desktop\Ярлыки\Учёба\с\obj\Debug\net6.0\refint\с.dll
+C:\Users\user\Desktop\Ярлыки\Учёба\с\obj\Debug\net6.0\с.pdb
+C:\Users\user\Desktop\Ярлыки\Учёба\с\obj\Debug\net6.0\с.genruntimeconfig.cache
+C:\Users\user\Desktop\Ярлыки\Учёба\с\obj\Debug\net6.0\ref\с.dll
