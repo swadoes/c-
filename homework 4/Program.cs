@@ -1,4 +1,5 @@
-﻿int programm, result, eNumber;
+﻿// Теперь буду собирать всё в один файл.
+int programm, result, eNumber;
 Boolean begin = true;
 
 while (begin)
