@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\bin\Debug\net6.0\hw 8.exe
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\bin\Debug\net6.0\hw 8.deps.json
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\bin\Debug\net6.0\hw 8.runtimeconfig.json
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\bin\Debug\net6.0\hw 8.dll
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\bin\Debug\net6.0\hw 8.pdb
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\obj\Debug\net6.0\hw 8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\obj\Debug\net6.0\hw 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\obj\Debug\net6.0\hw 8.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\obj\Debug\net6.0\hw 8.AssemblyInfo.cs
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\obj\Debug\net6.0\hw 8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\obj\Debug\net6.0\hw 8.dll
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\obj\Debug\net6.0\refint\hw 8.dll
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\obj\Debug\net6.0\hw 8.pdb
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\obj\Debug\net6.0\hw 8.genruntimeconfig.cache
+C:\Users\user\Desktop\Ярлыки\Учёба\с\hw 8\obj\Debug\net6.0\ref\hw 8.dll
